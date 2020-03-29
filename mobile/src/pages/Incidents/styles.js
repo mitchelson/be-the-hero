@@ -16,12 +16,13 @@ export default StyleSheet.create({
         color: '#737380',
     },
     headerTextBold:{
-        fontWeight:'bold'
+        fontWeight:'bold',
+        color:'red'
     },
     title:{
         fontSize:30,
-        marginBottom:16,
-        marginTop:48,
+        marginBottom:10,
+        marginTop:10,
         color:'#13131a',
         fontWeight:'bold'
     },
@@ -31,7 +32,7 @@ export default StyleSheet.create({
         color:'#737380'
     },
     incidentList:{
-        marginTop:32,
+        marginTop:20,
     },
     incident:{
         padding:24,
